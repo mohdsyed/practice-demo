@@ -1,1 +1,2 @@
 customerA details
+Master branch bug fix
