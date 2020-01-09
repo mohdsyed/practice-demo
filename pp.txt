@@ -1,2 +1,4 @@
 customerA details
 Master branch bug fix
+Master branch bug fix
+important bug if fixed
